@@ -738,6 +738,7 @@ img.result-favicon {
     background: var(--bg-light);
     border: none;
     box-shadow: var(--shadow-lg);
+    clip-path: inset(0px -100px -100px -100px);
     border-radius: 0 0 16px 16px;
     overflow: hidden;
 }
@@ -756,7 +757,7 @@ img.result-favicon {
     top: 0;
     bottom: 0;
     width: 3px;
-    background: var(--primary);
+    background: var(--primary-hover);
     transform: scaleY(0);
     transition: transform 0.3s var(--ease-out-expo);
 }
