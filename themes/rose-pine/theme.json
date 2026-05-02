@@ -1,0 +1,19 @@
+{
+  "name": "Rosé Pine",
+  "author": "Glicole",
+  "description": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist",
+  "version": "0.0.1",
+  "css": "style.css",
+  "settingsSchema": [
+    {
+      "key": "variant",
+      "label": "Variant",
+      "type": "select",
+      "options": ["main", "moon", "dawn"],
+      "description": "Choose your Rosé Pine variant."
+    }
+  ],
+  "dataAttrsFromSettings": {
+    "variant": "rosepine-variant"
+  }
+}

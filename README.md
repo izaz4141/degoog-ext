@@ -1,2 +1,2 @@
-# glicole-degoog-ext
+# degoog-ext
 Degoog extension

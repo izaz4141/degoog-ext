@@ -1,0 +1,13 @@
+{
+  "name": "glicole-degoog-ext",
+  "description": "Short description of your collection",
+  "author": "Glicole",
+  "themes": [
+    {
+      "path": "themes/rose-pine",
+      "name": "Rosé Pine",
+      "description": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist",
+      "version": "0.0.1"
+    }
+  ]
+}
